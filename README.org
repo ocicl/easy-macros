@@ -1,0 +1,9 @@
+* easy-macros
+
+A Common Lisp library to define less error-prone macros, faster.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/tdrhq/easy-macros.git |
+| commit  | a505eb2                                      |
+| systems | easy-macros                                  |
+|---------+----------------------------------------------|
