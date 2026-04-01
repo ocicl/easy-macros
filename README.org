@@ -7,3 +7,4 @@ A Common Lisp library to define less error-prone macros, faster.
 | commit  | 6da310d                                      |
 | systems | easy-macros                                  |
 |---------+----------------------------------------------|
+ 
